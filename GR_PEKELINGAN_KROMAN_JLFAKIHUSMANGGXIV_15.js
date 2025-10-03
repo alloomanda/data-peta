@@ -1,0 +1,1 @@
+var json_GR_PEKELINGAN_KROMAN_JLFAKIHUSMANGGXIV_15 = {"type":"FeatureCollection","name":"GR_PEKELINGAN_KROMAN_JLFAKIHUSMANGGXIV_15","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"FOTO":null},"geometry":{"type":"Point","coordinates":[112.654681899906464,-7.151212129772995]}}]}
